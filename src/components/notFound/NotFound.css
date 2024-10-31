@@ -1,0 +1,33 @@
+.notFoundContainer{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(31,31,31);
+    flex-direction: column;
+}
+.notFoundContainer h2{
+    font-size: 50px;
+    color: red;
+}
+.notFoundContainer button {
+    
+    color: red;
+    font-size: 20px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+
+    
+}
+
+.notFoundContainer a{
+    color: red;
+    font-size: 20px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: white;
+    text-decoration: none;
+}

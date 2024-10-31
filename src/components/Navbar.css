@@ -1,0 +1,18 @@
+nav{
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+nav ul li{
+    padding: 20px 15px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+/* .active{
+    border: 2px solid red;
+} */
